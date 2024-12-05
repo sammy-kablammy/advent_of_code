@@ -6,6 +6,8 @@
 /_/   \_\__,_| \_/ \___|_| |_|\__|  \___/|_|    \____\___/ \__,_|\___|
 ```
 
-for funsies
+...wherein i repeatedly learn the lesson that awk is, in fact, not designed for
+large programs and is therefore a terrible choice for many advent of code
+problems.
 
 https://adventofcode.com/
